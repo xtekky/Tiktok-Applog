@@ -7,6 +7,11 @@ import xxxxxxxxxxxxxxxxxxxxxxxxx
 class Applog():
     def __init__(self) -> None:
         pass
+    
+    def xxxxxxxxxxxxxxxxxxxxxx(self):
+        xxxxxx
+        
+        return xxx
 
     def xxxxxxxxxxxxxxxxxxxxxxxxxxxx(self):
         self.xxxxxx       = 'xxxxx'
@@ -18,8 +23,9 @@ class Applog():
         self.xxxxxx       = 'xxxxx'
         self.xxxxxx       = 'xxxxx'
         self.xxxxxxl      = 'xxxxx'
+        data = xxxxxx+xxxxx xxxxx xxx etc...
 
-        Data = xxxxxxx
+        Data = xxxxxxxxxxxxxxxxxxxxxx(data)
         return Data
 
     def xxxxxxxxxxxxxxxxxxx(self):
