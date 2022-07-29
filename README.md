@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Applog is a simple script that enables you to register new device id's on TikTok
+  Device ID not valid !! Need Xlog to validate, dm to purchase https://github.com/xtekky/Tiktok-Xlog
 </p>
 
 <h4 align="center">
