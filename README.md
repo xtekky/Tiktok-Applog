@@ -1,3 +1,5 @@
+applog does not accept raw json anymore, it needs to be encrypted with ttEncrypt, dm https://t.me/xtekky to purchase
+
 <h1 align="center">
   TikTok Applog
 </h1>
